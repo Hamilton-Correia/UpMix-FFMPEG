@@ -1,0 +1,48 @@
+@options
+@argfile
+-classpath
+'C:/Users/55929/.m2/repository/unknown/binary/AbsoluteLayout/SNAPSHOT/AbsoluteLayout-SNAPSHOT.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'16'
+-sourcepath
+'C:/Users/55929/Documents/NetBeansProjects/ProjetoUpmix/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/55929/Documents/NetBeansProjects/ProjetoUpmix/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'UpMix 1.1 API'
+-use
+-version
+-windowtitle
+'UpMix 1.1 API'
+'C:/Users/55929/Documents/NetBeansProjects/ProjetoUpmix/src/main/java/view/TelaLogin.java'
+'C:/Users/55929/Documents/NetBeansProjects/ProjetoUpmix/src/main/java/view/TelaPrincipal.java'
+'C:/Users/55929/Documents/NetBeansProjects/ProjetoUpmix/src/main/java/view/Upmix.java'
+C:\Users\55929\.m2\repository\unknown\binary\AbsoluteLayout\SNAPSHOT\AbsoluteLayout-SNAPSHOT.jar = 1622120931836
+C:\Users\55929\Documents\NetBeansProjects\ProjetoUpmix\src\main\java = 1622137904300
+C:\Users\55929\Documents\NetBeansProjects\ProjetoUpmix\target\apidocs\allclasses-index.html = 1622406371246
+C:\Users\55929\Documents\NetBeansProjects\ProjetoUpmix\target\apidocs\allpackages-index.html = 1622406371251
+C:\Users\55929\Documents\NetBeansProjects\ProjetoUpmix\target\apidocs\element-list = 1622406370951
+C:\Users\55929\Documents\NetBeansProjects\ProjetoUpmix\target\apidocs\help-doc.html = 1622406371293
+C:\Users\55929\Documents\NetBeansProjects\ProjetoUpmix\target\apidocs\index-all.html = 1622406371282
+C:\Users\55929\Documents\NetBeansProjects\ProjetoUpmix\target\apidocs\index.html = 1622406371287
+C:\Users\55929\Documents\NetBeansProjects\ProjetoUpmix\target\apidocs\jquery-ui.overrides.css = 1622406371563
+C:\Users\55929\Documents\NetBeansProjects\ProjetoUpmix\target\apidocs\member-search-index.js = 1622406371262
+C:\Users\55929\Documents\NetBeansProjects\ProjetoUpmix\target\apidocs\module-search-index.js = 1622406371255
+C:\Users\55929\Documents\NetBeansProjects\ProjetoUpmix\target\apidocs\overview-tree.html = 1622406371223
+C:\Users\55929\Documents\NetBeansProjects\ProjetoUpmix\target\apidocs\package-search-index.js = 1622406371257
+C:\Users\55929\Documents\NetBeansProjects\ProjetoUpmix\target\apidocs\script.js = 1622406371375
+C:\Users\55929\Documents\NetBeansProjects\ProjetoUpmix\target\apidocs\search.js = 1622406371467
+C:\Users\55929\Documents\NetBeansProjects\ProjetoUpmix\target\apidocs\serialized-form.html = 1622406371048
+C:\Users\55929\Documents\NetBeansProjects\ProjetoUpmix\target\apidocs\stylesheet.css = 1622406371372
+C:\Users\55929\Documents\NetBeansProjects\ProjetoUpmix\target\apidocs\tag-search-index.js = 1622406371264
+C:\Users\55929\Documents\NetBeansProjects\ProjetoUpmix\target\apidocs\type-search-index.js = 1622406371259
